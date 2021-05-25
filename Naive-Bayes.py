@@ -1,3 +1,5 @@
+#NaiveBayes
+
 import numpy as np
 import texttable as tt
 
